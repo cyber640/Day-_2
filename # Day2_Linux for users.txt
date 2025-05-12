@@ -1,5 +1,5 @@
 # Day2_Linux for users
-   
+    
 Catagory : Linux
 
 1) Information Gathering
