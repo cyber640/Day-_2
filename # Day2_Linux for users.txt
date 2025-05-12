@@ -1,7 +1,5 @@
-# Day2_Linux for users
-    
-Catagory : Linux
-
+ # Day2_Linux for Users
+**Category:** Linux
 1) Information Gathering
 tools : nmap, netdiscover, whois, dig, nslookup, host, traceroute, curl, wget, ping, ifconfig, ipconfig, netstat, route, arp
 2) Vulnerability Scanning
